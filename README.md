@@ -9,3 +9,4 @@
 * [WhaleRider Channel](https://t.me/WhaleRiderChannel) - информационный канал конференции Whale Rider по управлению проектами и предпринимательству.
 * [devleads](https://t.me/devleads) - канал с анонсами мероприятий devleads: митапы, подскасты, пирлабы, школа тимлидов. Кажется от Альфа-банка.
 * [devleads chat](https://t.me/devleadschat) - чат открытого сообщества тимлидов и руководителей разработки. Кажется от Альфа-банка.
+* [TeamLead SPB meetup](https://t.me/teamlead_spb) - чат cообщества тимлидов, и тех кому актуальна тема.
